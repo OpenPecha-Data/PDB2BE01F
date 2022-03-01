@@ -1,0 +1,16 @@
+id: PDB2BE01F
+initial_creation_type: input
+source_metadata:
+  title: Three Jewels Series
+  language: es
+  description: 'Texts on the theme of the Three Jewels (triratna, dkon mchog gsum)
+    or Triple Gem, i.e., Buddha, Dharma and Saṅgha:'
+  volume:
+    5668dceae091424d9c1c71caf9305bc3:
+      title: In Praise of the Three Jewels
+      parent: Praise
+    e45bbce39f624b3495414557ad4e9ac1:
+      title: The Noble Sūtra of Recalling the Three Jewels
+      parent: Recollection
+created_at: '2022-03-01T06:21:21.244948'
+last_modified_at: '2022-03-01T06:21:21.244951'
